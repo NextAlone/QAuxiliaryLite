@@ -1,2 +1,2 @@
-# QBinary
-A Q Binary Library
+# QAuxiliaryLite
+A QQ Auxiliary Lite version
